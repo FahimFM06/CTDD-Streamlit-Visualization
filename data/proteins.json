@@ -1,0 +1,105 @@
+[
+  {
+    "id": "P61626",
+    "name": "Human Lysozyme C",
+    "gene": "LYZ",
+    "organism": "Homo sapiens",
+    "sequence": "MKALIVLGLVLLSVTVQGKVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV",
+    "ec": [
+      "3.2.1.17"
+    ],
+    "features": [
+      {
+        "type": "DOMAIN",
+        "start": 19,
+        "end": 148,
+        "description": "C-type lysozyme",
+        "source": "UniProt P61626"
+      },
+      {
+        "type": "ACT_SITE",
+        "start": 53,
+        "end": 53,
+        "description": "Catalytic residue",
+        "source": "UniProt P61626"
+      },
+      {
+        "type": "ACT_SITE",
+        "start": 71,
+        "end": 71,
+        "description": "Catalytic residue",
+        "source": "UniProt P61626"
+      }
+    ],
+    "sequence_source": "https://www.uniprot.org/uniprotkb/P61626/entry",
+    "annotation_note": "Selected UniProt annotations, not a complete export."
+  },
+  {
+    "id": "P00918",
+    "name": "Human Carbonic Anhydrase II",
+    "gene": "CA2",
+    "organism": "Homo sapiens",
+    "sequence": "MSHHWGYGKHNGPEHWHKDFPIAKGERQSPVDIDTHTAKYDPSLKPLSVSYDQATSLRILNNGHAFNVEFDDSQDKAVLKGGPLDGTYRLIQFHFHWGSLDGQGSEHTVDKKKYAAELHLVHWNTKYGDFGKAVQQPDGLAVLGIFLKVGSAKPGLQKVVDVLDSIKTKGKSADFTNFDPRGLLPESLDYWTYPGSLTTPPLLECVTWIVLKEPISVSSEQVLKFRKLNFNGEGEPEELMVDNWRPAQPLKNRQIKASFK",
+    "ec": [
+      "4.2.1.1"
+    ],
+    "features": [
+      {
+        "type": "DOMAIN",
+        "start": 3,
+        "end": 259,
+        "description": "Alpha-carbonic anhydrase",
+        "source": "UniProt P00918"
+      },
+      {
+        "type": "ACT_SITE",
+        "start": 64,
+        "end": 64,
+        "description": "Proton donor/acceptor",
+        "source": "UniProt P00918"
+      },
+      {
+        "type": "BINDING",
+        "start": 94,
+        "end": 94,
+        "description": "Zinc coordination (His94)",
+        "source": "Carbonic anhydrase structural literature"
+      },
+      {
+        "type": "BINDING",
+        "start": 96,
+        "end": 96,
+        "description": "Zinc coordination (His96)",
+        "source": "Carbonic anhydrase structural literature"
+      },
+      {
+        "type": "BINDING",
+        "start": 119,
+        "end": 119,
+        "description": "Zinc coordination (His119)",
+        "source": "Carbonic anhydrase structural literature"
+      }
+    ],
+    "sequence_source": "https://www.uniprot.org/uniprotkb/P00918/entry",
+    "annotation_note": "Selected UniProt/domain annotations supplemented with documented zinc-binding residues; not a complete export."
+  },
+  {
+    "id": "P10635",
+    "name": "Human Cytochrome P450 2D6",
+    "gene": "CYP2D6",
+    "organism": "Homo sapiens",
+    "sequence": "MGLEALVPLAVIVAIFLLLVDLMHRRQRWAARYPPGPLPLPGLGNLLHVDFQNTPYCFDQLRRRFGDVFSLQLAWTPVVVLNGLAAVREALVTHGEDTADRPPVPITQILGFGPRSQGVFLARYGPAWREQRRFSVSTLRNLGLGKKSLEQWVTEEAACLCAAFANHSGRPFRPNGLLDKAVSNVIASLTCGRRFEYDDPRFLRLLDLAQEGLKEESGFLREVLNAVPVLLHIPALAGKVLRFQKAFLTQLDELLTEHRMTWDPAQPPRDLTEAFLAEMEKAKGNPESSFNDENLRIVVADLFSAGMVTTSTTLAWGLLLMILHPDVQRRVQQEIDDVIGQVRRPEMGDQAHMPYTTAVIHEVQRFGDIVPLGVTHMTSRDIEVQGFRIPKGTTLITNLSSVLKDEAVWEKPFRFHPEHFLDAQGHFVKPEAFLPFSAGRRACLGEPLARMELFLFFTSLLQHFSFSVPTGQPRPSHHGVFAFLVSPSPYELCAVPR",
+    "ec": [],
+    "features": [
+      {
+        "type": "BINDING",
+        "start": 443,
+        "end": 443,
+        "description": "Heme iron coordinating Cys443",
+        "source": "CYP2D6 structural literature"
+      }
+    ],
+    "sequence_source": "https://www.uniprot.org/uniprotkb/P10635/entry",
+    "annotation_note": "Selected literature-supported Cys443 heme-binding residue only; use live UniProt to view more feature annotations."
+  }
+]
